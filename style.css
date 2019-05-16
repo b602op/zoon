@@ -498,11 +498,19 @@ html, body {
 
   .button_control + .button_control {
     margin-left: 0;
-    margin-top: 5px;
+    margin-top: 10px;
   }
 
   .company_box_top {
     padding-right: 30px;
+  }
+
+  .main_container {
+    padding: 7px 10px;
+  }
+  .panel_container {
+    justify-content: space-around;
+    margin: auto 10px;
   }
 
 }
